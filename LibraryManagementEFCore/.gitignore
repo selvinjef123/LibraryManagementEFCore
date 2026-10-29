@@ -1,0 +1,15 @@
+
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
